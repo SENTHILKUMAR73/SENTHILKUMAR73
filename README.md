@@ -93,22 +93,6 @@ support intelligent traffic and parking insights.
 
 ---
 
-### 🏠 House Price Prediction
-
-Machine learning web application that predicts house prices based on
-input features.
-
-**Technologies:**
-- Python
-- Pandas
-- Scikit-learn
-- Linear Regression
-- Flask
-- HTML
-- CSS
-
----
-
 ### 🏏 IPL Data Analytics Dashboard
 
 Interactive Power BI dashboard for analyzing IPL teams, players,
