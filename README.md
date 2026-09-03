@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Senthil Kumar
 
-### 🤖 AI/ML Enthusiast | Data Analyst | Python Developer
+### 🤖 AI/ML Enthusiast | Data Analyst | Data science
 
 Welcome to my GitHub profile! 👋
 
